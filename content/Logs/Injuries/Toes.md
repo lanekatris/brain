@@ -1,0 +1,2 @@
+### 2022-07-10
+I had to dig pretty hard on my left toe. It was hurting deep and I dug a LOT. So it's swollen today. I even feel it when walking and getting out of bed. So I'm icing. This will definately affect climbing if it doesn't resolve be tuesday.
