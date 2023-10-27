@@ -4,7 +4,7 @@ I started off with wanting to do a blog. Then I got inspiration from TODO's webs
 
 - [x] Move quartz to ~~monorepo~~ to `brain` repo ✅ 2023-10-09
 - [x] Make name change ✅ 2023-10-11
-- [ ] Make lanekatris.com use quartz
+- [x] Make lanekatris.com use quartz ✅ 2023-10-26
 - [ ] Setup RSS with domain and 1000
 - [ ] Change Frontmatter of all posts
 - [ ] Migrate blog from deleted github to this new place
@@ -38,3 +38,33 @@ I intentionally chose to fork the Quartz repo so I could get updates. I tried a 
  I wonder if Astro handles images out of the box? (yes it does)
 
 I even looked up the Quartz Community Discord for image processing to no avail.
+
+**2023-10-26**
+(I will put images in ImageKit, I don't want to deal with other solutions)
+(There may be a cool integration to auto expose my s3 to ImageKit)
+
+- [ ] asdf
+
+I need to do the following steps:
+#### 1. ✅ Upload obsidian files to S3
+
+This can be done with aws sync cli or a plugin to write to s3
+
+#### 2. Commit files and push
+
+
+
+3. (Netlify automatically gets kicked off and deploys the site)
+
+
+
+2023-10-27
+
+Ok, it's too much of a pain dealing with Kestra and github actions.
+
+So I'll just run a copy script and upload to s3 manually and call it a day
+
+To Dos
+- [x] Copy files from obsidian/public folder to git ✅ 2023-10-27
+- [x] git commit && git push ✅ 2023-10-27
+- [x] script or program to make this easier ✅ 2023-10-27

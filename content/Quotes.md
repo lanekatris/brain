@@ -1,3 +1,8 @@
+> If you can't be happy with a coffee, you won't be happy with a yacht
+
+[Random Link To Quote](https://www.dmarge.com/what-is-happiness)
+2023-10-19: You need to appreciate things, so many people are worse off
+
 ### Henry David Thoreau
 
 > How vain it is to sit down to write when you have not stood up to live
