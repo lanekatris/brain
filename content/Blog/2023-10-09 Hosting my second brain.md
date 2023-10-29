@@ -68,6 +68,5 @@ So I'll just run a copy script and upload to s3 manually and call it a day
 - [x] Copy files from obsidian/public folder to git ✅ 2023-10-27
 - [x] git commit && git push ✅ 2023-10-27
 - [x] script or program to make this easier ✅ 2023-10-27
-- [ ] Schedule script to run
 
 (Just remember to keep images in imagekit and I think we are gravy 🤷)
