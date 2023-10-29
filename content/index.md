@@ -17,3 +17,5 @@ I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company
 > [!info] I have a ton of projects, but these could be called "done"
 
 - https://climb.rest/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bea7f86c-75aa-4540-b941-273d0f244c3c/deploy-status)](https://app.netlify.com/sites/lanekatris/deploys)
