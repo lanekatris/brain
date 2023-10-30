@@ -18,7 +18,7 @@ This was my TODO "red disc" Sidewinder that is still lost.
 ![A big cup](https://ik.imagekit.io/lkat/blog/coonskin%20doubles%20tournament/tr:q-20/PXL_20231028_174000605_UDR_gFQXd.jpg?updatedAt=1698625162032)
 [Full Version](https://ik.imagekit.io/lkat/blog/coonskin%20doubles%20tournament/PXL_20231028_174000605_UDR_gFQXd.jpg?updatedAt=1698625162032)
 
-Also got a [[123 - Reko X]]:
+Also, in the players pack; got a [[123 - Reko X]]:
 ![Reko Disc](https://ik.imagekit.io/lkat/blog/coonskin%20doubles%20tournament/tr:q-20/PXL_20231029_215029387_T_rSSNeJn.jpg?updatedAt=1698625125538)
 
 [Full Version](https://ik.imagekit.io/lkat/blog/coonskin%20doubles%20tournament/PXL_20231029_215029387_T_rSSNeJn.jpg?updatedAt=1698625125538)
