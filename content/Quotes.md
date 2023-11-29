@@ -1,3 +1,11 @@
+> We must allow ourselves to wander to find ourselves
+
+> Choose the pain of discipline over the pain of regret
+
+> You have to take risks if you ant to learn anything about yourself
+
+> You have to take risks if you want to expand the self-imposed walls we've put around ourselves
+
 > If you can't be happy with a coffee, you won't be happy with a yacht
 
 [Random Link To Quote](https://www.dmarge.com/what-is-happiness)

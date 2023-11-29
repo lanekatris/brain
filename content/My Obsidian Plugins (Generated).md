@@ -1,4 +1,4 @@
-**Generated On**: 2023-10-29 22:25:09
+**Generated On**: 2023-11-11 21:36:51
 
 # Community Plugins
 
@@ -32,5 +32,6 @@
 - Append Blog Idea
 - Append Show to Watch
 - Append Software Idea
+- Append To Buy
 - Climb App - Add Climb
 - Invoke New Obsidian
