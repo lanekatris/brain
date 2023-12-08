@@ -48,6 +48,7 @@ Miscellaneous:
 - [[Projects]]
 - climb.rest
 - [[Disc Golf Course Map Overlay]]
+- [[2023-12-08 Open Obsidian Reminder]]
 
 #### Goals
 
@@ -95,3 +96,6 @@ I want to model off of how temporal and cobra cli host their product (grpc, gola
 # To Dos
 - [ ] Need sql migrations
 - [ ] Need pulumi to create at least SNS topic
+
+
+> It's ok to have software that runs on your computer, like a file watcher that will upload to a server and notify you of the link... its ok!! some thingsa are cloud, some things run local, its ok...!

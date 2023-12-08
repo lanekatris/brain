@@ -8,7 +8,7 @@ date: 2023-12-08
 3) The contents of the email points to my website which has a deep "a href" link
 4) I click that and it opens obsidian! 
 
-> It is a few click I know, but hey, I'm reminded 🤷
+> It is a few clicks I know, but hey, I'm reminded 🤷
 
 [Web page](https://www.lanekatris.com/obsidian-links) with deep links
 
