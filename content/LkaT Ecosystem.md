@@ -1,3 +1,5 @@
+[Docker Hub for LK](https://hub.docker.com/repository/docker/loonison101/lk/tags?page=1&ordering=last_updated)
+
 [[Recommender and trip planning for things to do]]
 [[Climbing]]
 [[Disc Golf Projects]]
@@ -86,3 +88,10 @@ I want to model off of how temporal and cobra cli host their product (grpc, gola
 **2023-11-26**
 - You need all caps when doing environment variables for viper to pick them up, oops I forgot. [Recommended Dockerfile](https://docs.docker.com/language/golang/build-images/)
 - I recently allowed config file and env vars with [this](https://dev.to/techschoolguru/load-config-from-file-environment-variables-in-golang-with-viper-2j2d) and [this](https://articles.wesionary.team/environment-variable-configuration-in-your-golang-project-using-viper-4e8289ef664d)
+
+
+
+
+# To Dos
+- [ ] Need sql migrations
+- [ ] Need pulumi to create at least SNS topic
