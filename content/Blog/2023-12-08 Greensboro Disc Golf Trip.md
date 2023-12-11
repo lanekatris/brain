@@ -1,6 +1,8 @@
 ---
 title: Greensboro Disc Golf Trip
 date: 2023-12-08
+tags:
+  - adventure
 ---
 **Dates**: 3 Days (2023-12-05 - 2023-12-07)
 
