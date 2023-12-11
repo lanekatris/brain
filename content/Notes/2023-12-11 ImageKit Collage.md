@@ -1,7 +1,7 @@
 ---
 date: 2023-12-11
-title: 
+title: ImageKit can do collages!
 tags:
-  - 
+  - imagekit
 ---
-https://imagekit.io/blog/how-to-create-a-photo-collage/
+Sort of how [ImageMagick or Montage](https://opensource.com/article/21/9/photo-montage-imagemagick) can create new image montage files with [ImageKit](https://opensource.com/article/21/9/photo-montage-imagemagick)!
