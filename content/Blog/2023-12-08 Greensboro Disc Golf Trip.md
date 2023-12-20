@@ -36,7 +36,7 @@ Visited [Pilot Mountain State Park](https://maps.app.goo.gl/YffcZTZxBhzhAvcUA)
 
 Ate at the [Beckley Omelet Shoppe](https://maps.app.goo.gl/qEcm9axKDC6Jn93Z8)
 
-TODO fridge
+#todo fridge
 stamp book
 map
 
@@ -50,7 +50,7 @@ map
 -  own bed worked well with pull out
 - a gallon of water is nice but not needed
 
-- [ ] penny passport blog
+- [x] penny passport blog ✅ 2023-12-11
 - [x] be able to heat food on the road (just crappy hot lunchboxes) ✅ 2023-12-10
 - [x] what is the most efficient way to visit all NC State parks ✅ 2023-12-10
 - [x] diy tonneau for rack ✅ 2023-12-10

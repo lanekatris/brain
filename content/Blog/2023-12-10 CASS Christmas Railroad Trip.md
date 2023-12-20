@@ -25,4 +25,4 @@ We got 2 new pennies pressed:
 
 [Full Size](https://ik.imagekit.io/lkat/blog/Adventure%20Books/PXL_20231211_140222353_M7op2At08H.jpg?updatedAt=1702305264351)
 
-- [ ] CASS Scenic railroad state park mark with troy TODO
+- [ ] CASS Scenic railroad state park mark with troy #todo

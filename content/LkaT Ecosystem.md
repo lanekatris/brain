@@ -82,7 +82,8 @@ I want to model off of how temporal and cobra cli host their product (grpc, gola
 - CLI (LK)
 
 
-
+# Built With
+- [Joy UI](https://mui.com/joy-ui/getting-started/) by MUI
 
 # LK
 
@@ -94,6 +95,7 @@ I want to model off of how temporal and cobra cli host their product (grpc, gola
 
 
 # To Dos
+- [ ] Destroy current pulumi stack under `software/infrastructure` and create a new `lkat` and pulumi/infrastrucutre folder to make things like... idk, resend api key or kestra IAM for S3?
 - [ ] Need sql migrations
 - [ ] Need pulumi to create at least SNS topic
 
