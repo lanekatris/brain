@@ -13,6 +13,10 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
+        <img
+          alt="Netlify Build Status"
+          src="https://api.netlify.com/api/v1/badges/bea7f86c-75aa-4540-b941-273d0f244c3c/deploy-status"
+        />
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
