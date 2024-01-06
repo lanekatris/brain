@@ -3,6 +3,8 @@ tags:
   - project
   - discgolf
 status: done
+title: New Project - Upload Udisc Scorecards and Populate Feed
+date: 2023-09-16
 ---
 
 # Why?

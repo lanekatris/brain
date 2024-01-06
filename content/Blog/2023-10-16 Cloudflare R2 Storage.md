@@ -1,3 +1,7 @@
+---
+title: Cloudflare R2 Storage
+date: 2023-10-16
+---
 # Background
 
 I was thinking about the data hosting portion of my vision with the [[LkaT Ecosystem]]. 

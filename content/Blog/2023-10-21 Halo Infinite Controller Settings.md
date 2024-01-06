@@ -1,3 +1,7 @@
+---
+title: Halo Infinite Controller Settings
+date: 2023-10-21
+---
 Playing this game felt impossible with stock settings and playing with general look sensitivity.
 
 ### Overview

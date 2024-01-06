@@ -1,3 +1,7 @@
+---
+title: Trip to Charlotte, NC for DGPT
+date: 2023-10-19
+---
 **Dates**
 2023-10-13 to 2023-10-15
 

@@ -1,3 +1,7 @@
+---
+title: Trying tremor.so with nx.dev
+date: 2023-10-29
+---
 This [Vercel template](https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs) came across my Google feed and gave me inspiration. So, I wanted to try things out. I really like this abstraction which I consider more like [MUI](https://mui.com/) compared to the raw classes of tailwind.
 
 > [!info] I'm using https://nx.dev/ so the default directions [here](https://www.tremor.so/docs/getting-started/installation) from tremor.so didn't work for me

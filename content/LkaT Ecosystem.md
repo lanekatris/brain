@@ -50,6 +50,13 @@ Miscellaneous:
 - [[Disc Golf Course Map Overlay]]
 - [[2023-12-08 Open Obsidian Reminder]]
 
+Charts
+- Kibana
+- Apache blah blah taht is like tableau
+
+Considerations
+1. Cloud needs to talk to your API publically or it talks to a shared resource like a db or a queue
+2. Auth is needed in cloud or via cloud flare for private HIPAA things
 #### Goals
 
 > I'd like to be multi-tenant so I can start it for my son Troy (we could compare data and it would be good to see other's data)

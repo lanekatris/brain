@@ -1,3 +1,7 @@
+---
+title: Ashe County Disc Golf
+date: 2023-11-04
+---
 Drive down Friday and stayed at Americas Best Value Inn & Suites Independence, VA
 https://maps.app.goo.gl/orYTxisrPV1wg7WBA
 

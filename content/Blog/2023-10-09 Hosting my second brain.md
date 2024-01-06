@@ -1,3 +1,7 @@
+---
+title: Hosting my second brain
+date: 2023-10-09
+---
 I started off with wanting to do a blog. Then I got inspiration from TODO's website and see the blog and second brain so I want to do both but i'll sart with PKM and see how it goes. 
 
 # To Do

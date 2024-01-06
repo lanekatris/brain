@@ -1,3 +1,7 @@
+---
+title: Citrix on Ubuntu
+date: 2023-06-24
+---
 Works!
 
 # Steps

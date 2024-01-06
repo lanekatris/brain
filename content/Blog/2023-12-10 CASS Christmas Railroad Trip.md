@@ -1,3 +1,7 @@
+---
+title: CASS Christmas Railroad Trip
+date: 2023-12-10
+---
 ### Random Images
 
 ![](https://ik.imagekit.io/lkat/blog/tr:q-50,h-600/PXL_20231210_162233737_BeSrmeYln.jpg?updatedAt=1702305289646)

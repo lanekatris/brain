@@ -1,3 +1,7 @@
+---
+title: My Obsidian Setup
+date: 2023-10-22
+---
 Reocurring tasks vs Google Calendar
 - Worming horses
 

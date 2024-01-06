@@ -1,3 +1,7 @@
+---
+title: Adventure Books
+date: 2023-12-11
+---
 
 TODO: mark where our son Troy has been
 

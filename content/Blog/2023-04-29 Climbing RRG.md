@@ -1,5 +1,10 @@
 ---
-tag: adventure, climb, RRG
+tags:
+  - adventure
+  - climb
+  - RRG
+title: Climbing RRG
+date: 2023-04-29
 ---
 Went to [Muir Valley](https://muirvalley.org/) on Saturday. Spent all our time in the **Bowling Alley** crag.
 

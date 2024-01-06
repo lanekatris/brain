@@ -1,3 +1,7 @@
+---
+title: First Flight in a Private Plane
+date: 2023-10-25
+---
 ### Background
 
 My buddy recently got his pilots license. He was needing some quick maintenance so we thought it would be a nice short flight for me to try out.
