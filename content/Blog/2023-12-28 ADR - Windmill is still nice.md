@@ -1,6 +1,7 @@
 ---
 tags:
   - adr
+  - windmilldev
 title: Windmill.dev is still a pleasure to work with
 date: 2023-12-28
 ---
