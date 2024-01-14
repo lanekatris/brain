@@ -1,6 +1,6 @@
 [Docker Hub for LK](https://hub.docker.com/repository/docker/loonison101/lk/tags?page=1&ordering=last_updated)
 
-[[Recommender and trip planning for things to do]]
+[[Recommender and trip planning for things to do outdoors]]
 [[Climbing]]
 [[Disc Golf Projects]]
 [[Fitness Software and Projects]]
