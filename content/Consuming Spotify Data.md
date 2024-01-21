@@ -83,10 +83,10 @@ psql -f ./test-script.sql YOUR_CONNECTION_STRING
 # To Dos
 
 - [x] Create stats and show in nextjs ✅ 2024-01-13
-- [ ] Create opml page manually or with [library](http://scripting.com/code/opmlpackage/examples/browser/)
+- ~~Create opml page manually or with [library](http://scripting.com/code/opmlpackage/examples/browser/)~~ (I don't know the RSS url so I'm not going to do this)
 - [x] Generate URL to spotify like so: `https://open.spotify.com/show/2GFqbdH3xEtu0ZKUP6tr13` ✅ 2024-01-13
-- [ ] export from the open podcast app to see the format for opml
-- [ ] need flyway or something for this schema
+- [x] export from the open podcast app to see the format for opml (it was simple, nothing too crazy) ✅ 2024-01-14
+- need flyway or something for this schema (this will come some day)
 
 # Brain Dump
 
