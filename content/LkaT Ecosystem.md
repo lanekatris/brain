@@ -39,6 +39,7 @@ Potentially:
 - Pluggable architecture
 - gamification
 - fitness goals
+- ssh + rest + grpc + electron + CLI + web
 
 **Data:**
 - Postgres - https://neon.tech/
@@ -49,6 +50,8 @@ Miscellaneous:
 - climb.rest
 - [[Disc Golf Course Map Overlay]]
 - [[2023-12-08 Open Obsidian Reminder]]
+- I store [environment variables](https://unix.stackexchange.com/questions/813/how-to-determine-where-an-environment-variable-came-from) for obsidian to talk to cloud tunnel in `/etc/environment`
+- `lkat-api` and `lkat-worker` are set to startup on [KDE](https://askubuntu.com/questions/1424318/how-to-autostart-an-executable-file-after-login) (not Docker)
 
 Charts
 - Kibana
