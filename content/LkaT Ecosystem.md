@@ -111,3 +111,9 @@ I want to model off of how temporal and cobra cli host their product (grpc, gola
 
 
 > It's ok to have software that runs on your computer, like a file watcher that will upload to a server and notify you of the link... its ok!! some thingsa are cloud, some things run local, its ok...!
+
+
+# Domains
+> KISS - Don't need to put domains in SQL unless needed. Just define it here, it can be parsed out if needed. This way it can be edited with the Obsidian GUI on PC or mobile.
+
+- Bucket: https://storage.lkat.io

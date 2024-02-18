@@ -7,7 +7,7 @@ title: 👋 I'm Lane Katris
 I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company/hd-supply/) who enjoys climbing, disc golf, and team sports.
 
 - [Blog](blog)
-- [Notes](https://lanekatris.com/Notes)
+- [Notes](https://memos.lkat.io/) or [Note](https://memo.lkat.io/)
 - [RSS](https://www.lanekatris.com/index.xml)
 - [LinkedIn](https://www.linkedin.com/in/lane-katris-80610a44/)
 - [Resume](https://gitconnected.com/lanekatris)

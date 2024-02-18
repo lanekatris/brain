@@ -1,3 +1,5 @@
+> Knowing the value you bring and telling people about it but not being a dick about it
+
 > We must allow ourselves to wander to find ourselves
 
 > Choose the pain of discipline over the pain of regret
