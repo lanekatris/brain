@@ -6,8 +6,12 @@ title: 👋 I'm Lane Katris
 
 I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company/hd-supply/) who enjoys climbing, disc golf, and team sports.
 
-- [Blog](blog)
-- [Notes](https://memos.lkat.io/) or [Note](https://memo.lkat.io/)
+- [Adventures](tags/adventure)
+	- [Snowboarding](tags/snowboarding)
+	- [Climbing](tags/climb)
+- [Blog](Blog) - Slightly formal articles 
+	- View blog by [Tags](tags)
+- [Notes](https://memos.lkat.io/) or [Note](https://memo.lkat.io/) - Random thought stream notes (not structured)
 - [RSS](https://www.lanekatris.com/index.xml)
 - [LinkedIn](https://www.linkedin.com/in/lane-katris-80610a44/)
 - [Resume](https://gitconnected.com/lanekatris)
@@ -18,6 +22,7 @@ I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company
 
 > [!info] I have a ton of projects, but these could be called "done"
 
+- WIP - [[LkaT Ecosystem]]
 - [My data dashboard](https://loonison.com/)
 - (Private) [Search My Google Location History](https://loonison.com/location-history)
 - [Disc Database iFrame](https://loonison.com/discs)

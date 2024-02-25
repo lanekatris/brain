@@ -2,7 +2,6 @@
 tags:
   - dog
   - dad
-  - camper
 date: 2023-04-22
 ---
 My dad and I have only gone camping a handful of times. This picture has a lot of meaning, his dog, Kink, passed away in 2018. 

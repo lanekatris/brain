@@ -1,5 +1,10 @@
-#trip #discgolf 
-
+---
+title: 2023 Memorial Day Disc Golf Trip - NC
+tags:
+  - adventure
+  - discgolf
+date: 2023-05-27
+---
 # Pre Trip
 
 **Car Stuff**
