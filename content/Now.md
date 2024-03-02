@@ -1,3 +1,6 @@
+**2024-02-26**
+- Start keeping track of things I forget
+
 **2024-01-01**
 - Explore new places and play [[Disc Golf]]
 - Getting finances cleaned up

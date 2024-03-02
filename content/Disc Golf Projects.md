@@ -67,3 +67,8 @@ Currently, without loading course detail data into the db, sqlite is: **589 MB**
 # Disc Golf Tournament Analyzer
 
 This would use discgolfscene.com, still thinking on this...
+
+# Log
+
+**2024-03-02**
+- [ ] Might need to verify the schema of this file: https://memos.lkat.io/m/je64HP5zjTBLtzMfXmJmHC

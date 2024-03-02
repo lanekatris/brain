@@ -11,8 +11,9 @@ I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company
 	- [Climbing](tags/climb)
 - [Blog](Blog) - Slightly formal articles 
 	- View blog by [Tags](tags)
+	- [RSS](https://www.lanekatris.com/index.xml)
 - [Notes](https://memos.lkat.io/) or [Note](https://memo.lkat.io/) - Random thought stream notes (not structured)
-- [RSS](https://www.lanekatris.com/index.xml)
+	- [RSS](https://memos.lkat.io/u/Lane/rss.xml)
 - [LinkedIn](https://www.linkedin.com/in/lane-katris-80610a44/)
 - [Resume](https://gitconnected.com/lanekatris)
 - [GitHub](https://github.com/lanekatris)
