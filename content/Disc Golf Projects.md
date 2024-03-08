@@ -2,6 +2,34 @@
 [[Disc Golf Projects#Disc Golf Course Dataset Generation]]
 [[Disc Golf Projects#Disc Golf Tournament Analyzer]]
 [[2023-09-15 Disc Database]]
+
+> This disc golf service - every transition change is captured, why'd you buy a new disc, you moved from in bag to missing, how'd that happen. Could be simple sqlite and golang/nextjs or temporal etc. - expose CSV and RSS feed, or the disc lineage idea like blockchain, like trading discs with JJhackn.
+
+> I envision kestra, windmill, or temporal to generate my list of datasets and populate disc golf course dataset and let me know, also knowing courses I've played notification. Maybe a notification that is idempotent, Lane went to a new course. Or this could be rendered on the feed and highlighted as new course, and this could be charted in graph
+
+> [!error] I have to manually delete a record because there are 2 `Par` users for a round. 
+
+> [!error] My udisc parser doesn't match Udisc any more, need to fix this
+
+- [x] Show one stat from my udisc scorecard parser ✅ 2024-03-03
+- [x] put name on crave found ✅ 2024-03-03
+- [x] compare escape, avenger ss, sidewinder, gstar mystere ✅ 2024-03-03
+- [x] go thru and update what's in my bag ✅ 2024-03-03
+
+- [ ] display a unique list of courses and potentially search
+- [ ] I would like to join and be able to filter my discs by "mid-range"
+- [ ] add forgotten list to the daily note template
+- [ ] what is my current goal for disc golf, link to disc golf and link to now in blog.... Turnover and backhand form
+- [ ] I would like to click the brand and filter my discs same as Marshall Street 
+- [ ] talk about having 2 of them, so red rhyno and white factory second
+- [ ] explain that deputy's are my main putter and I have 5, well 6 (do format like corey ellis' in the bag, what info he gives/questions asked)
+- [ ] tennis ball to help my cart
+- [ ] it would be cool to do disc transactions to keep track of lineage like toro - and like integrating my lkat modules with disc golf to fitness to feed, all enable then data sync
+- [ ] compare toro and pig, image recognition training to load your discs if you don't want to do it manually
+- [ ] add to gear, I have a camo dd disc tube
+- [ ] bring disc golf links from raindrop to blog
+- [ ] process for lost discs queue
+- [ ] discs could live as workflow in temporal forever, like I took pig out cuz I have a toro and a rhyno already
 - [ ] Disc Golf Stickers Idea
 
 # Disc Golf Course Dataset Generation

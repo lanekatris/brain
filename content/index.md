@@ -9,6 +9,7 @@ I'm a senior full stack engineer at [HD Supply](https://www.linkedin.com/company
 - [Adventures](tags/adventure)
 	- [Snowboarding](tags/snowboarding)
 	- [Climbing](tags/climb)
+	- [[Colorado 14ers]]
 - [Blog](Blog) - Slightly formal articles 
 	- View blog by [Tags](tags)
 	- [RSS](https://www.lanekatris.com/index.xml)
