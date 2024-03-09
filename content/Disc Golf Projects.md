@@ -1,3 +1,5 @@
+[[2024-03-09 Create JSON and CSV from Udisc top world courses]]
+
 [[Disc Golf Course Map Overlay]] - **Cancelled** because of performance issues in GAIA/Chrome
 [[Disc Golf Projects#Disc Golf Course Dataset Generation]]
 [[Disc Golf Projects#Disc Golf Tournament Analyzer]]
@@ -15,11 +17,11 @@
 - [x] put name on crave found ✅ 2024-03-03
 - [x] compare escape, avenger ss, sidewinder, gstar mystere ✅ 2024-03-03
 - [x] go thru and update what's in my bag ✅ 2024-03-03
+- [x] display a unique list of courses and potentially search ✅ 2024-03-08
+- [ ] what is my current goal for disc golf, link to disc golf and link to now in blog.... Turnover and backhand form
 
-- [ ] display a unique list of courses and potentially search
 - [ ] I would like to join and be able to filter my discs by "mid-range"
 - [ ] add forgotten list to the daily note template
-- [ ] what is my current goal for disc golf, link to disc golf and link to now in blog.... Turnover and backhand form
 - [ ] I would like to click the brand and filter my discs same as Marshall Street 
 - [ ] talk about having 2 of them, so red rhyno and white factory second
 - [ ] explain that deputy's are my main putter and I have 5, well 6 (do format like corey ellis' in the bag, what info he gives/questions asked)
