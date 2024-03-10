@@ -1,6 +1,8 @@
 > [!info] Landing page for all things disc golf related!
 
 My disc golf dashboard: https://loonison.com/discs
+
+[[2022-10-25-pdga-membership]]
 # Updates
 
 **2024-03-03**
