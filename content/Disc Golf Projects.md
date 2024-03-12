@@ -1,9 +1,8 @@
-[[2024-03-09 Create JSON and CSV from Udisc top world courses]]
-
-[[Disc Golf Course Map Overlay]] - **Cancelled** because of performance issues in GAIA/Chrome
-[[Disc Golf Projects#Disc Golf Course Dataset Generation]]
-[[Disc Golf Projects#Disc Golf Tournament Analyzer]]
-[[2023-09-15 Disc Database]]
+- [[2024-03-09 Create JSON and CSV from Udisc top world courses]]
+- [[Disc Golf Course Map Overlay]] - **Cancelled** because of performance issues in GAIA/Chrome
+- [[Disc Golf Projects#Disc Golf Course Dataset Generation]]
+- [[Disc Golf Projects#Disc Golf Tournament Analyzer]]
+- [[2023-09-15 Disc Database]]
 
 > This disc golf service - every transition change is captured, why'd you buy a new disc, you moved from in bag to missing, how'd that happen. Could be simple sqlite and golang/nextjs or temporal etc. - expose CSV and RSS feed, or the disc lineage idea like blockchain, like trading discs with JJhackn.
 
@@ -18,8 +17,13 @@
 - [x] compare escape, avenger ss, sidewinder, gstar mystere ✅ 2024-03-03
 - [x] go thru and update what's in my bag ✅ 2024-03-03
 - [x] display a unique list of courses and potentially search ✅ 2024-03-08
-- [ ] what is my current goal for disc golf, link to disc golf and link to now in blog.... Turnover and backhand form
 
+
+- [ ] show all my pics to my disc golf in entory
+- [ ] Nate's idea to analyze form and give a diff and recommendations
+- [ ] A domain like `disc.ink`,`disc.courses`,`disc.guide`,`disc.how`,`disc.tips`,`disc.claims`,`disc.rest`,`disc.social` could be my placeholder for my blockchain tracking of discs
+- [ ] I would like to keep track of click count in local storage of the links on loonison.com so `discs` flow to the top
+- [ ] what is my current goal for disc golf, link to disc golf and link to now in blog.... Turnover and backhand form
 - [ ] I would like to join and be able to filter my discs by "mid-range"
 - [ ] add forgotten list to the daily note template
 - [ ] I would like to click the brand and filter my discs same as Marshall Street 
