@@ -1,3 +1,6 @@
+https://developer.1password.com/docs/cli/get-started/
+1password to keep my .env file in check
+
 [Docker Hub for LK](https://hub.docker.com/repository/docker/loonison101/lk/tags?page=1&ordering=last_updated)
 
 [[Recommender and trip planning for things to do outdoors]]

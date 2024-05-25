@@ -10,7 +10,7 @@ It had been so long I had to look up how to change my gun setting from PSP to se
 
 I haven't played for a while so I was super tired that evening. It was weird, my hands were camping afterwards. I drank watter, but who knows, maybe my potatssium was low. 
 
-TODO: [[Content Creation and Blogging]]
+TODO: [[Content Creation and Blog Ideas]]
 
 I had the most gun issues I've ever had with my LV1. I was shooting more than one ball and balls were gettin jammed, my eyes were showing no ball. I assume detents were having issues. I'll have to look into it. This is supposed to be my reliable marker compared to that damn M17. So with the double loading+, I was chopping here and there. 
 
