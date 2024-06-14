@@ -35,21 +35,21 @@ CLose window
 - [x] dayquil ✅ 2023-06-09
 - [ ] Buy sunscreen and lotrimin
 - [x] Charge GoPro batteries ✅ 2023-06-08
-- [x] buy bugspray ✅ 2023-06-09
+- [ ] buy bugspray
 - [x] buy wet wipes ✅ 2023-06-09
 - [x] buy small canister of fuel ✅ 2023-06-09
 - [x] buy nature valley crunchy oats n dark chocolate ✅ 2023-06-09
 - [x] water ✅ 2023-06-09
 - [x] rooster tails ✅ 2023-06-09
-- [x] summer sausage ✅ 2023-06-09
-- [ ] instant coffee
+- [ ] summer sausage
+- [x] instant coffee ✅ 2024-06-06
 - [x] orange chips ✅ 2023-06-09
 - [x] light n fluffy noodles ✅ 2023-06-09
 - [x] orange pop ✅ 2023-06-09
 - [x] honey ✅ 2023-06-09
 - [x] bananas ✅ 2023-06-09
 - [x] fix beef bar ✅ 2023-06-08
-- [ ] get gas money for chris
+- [x] get gas money for chris ✅ 2024-06-06
 - [ ] call Larry hay guy
 
 # To Dos for 2023-06-08
@@ -59,8 +59,8 @@ CLose window
 - [x] Car charger ✅ 2023-06-08
 
 # Food
-- [x] Fill grape juice container with water ✅ 2023-06-09
-- [x] Fill 2 nalgenes with water ✅ 2023-06-09
+- [ ] Fill grape juice container with water
+- [ ] Fill 2 nalgenes with water
 - [x] Instant coffee mix x3 ✅ 2023-06-09
 
 # Toiletries
@@ -94,20 +94,20 @@ CLose window
 - [x] Tacklebox ✅ 2023-06-08
 - [x] Pliers ✅ 2023-06-08
 - [x] Hawg trough ✅ 2023-06-08
-- [x] Verify I have enough spinners ✅ 2023-06-08
+- [ ] Verify I have enough spinners
 - [x] Land anchor ✅ 2023-06-08
 - [ ] 
 
 
 # Clothes
-- [x] Rain jacket ✅ 2023-06-08
-- [x] 1 sun shirt ✅ 2023-06-08
-- [x] 1 sun hat ✅ 2023-06-08
-- [x] Flip flops ✅ 2023-06-08
-- [x] Fleece or thermal top ✅ 2023-06-08
-- [x] 2 shirts ✅ 2023-06-08
-- [x] 2 shorts ✅ 2023-06-08
-- [x] 3 underwear ✅ 2023-06-08
+- [x] Rain jacket ✅ 2024-06-06
+- [x] 1 sun shirt ✅ 2024-06-06
+- [x] 1 sun hat ✅ 2024-06-06
+- [ ] Flip flops
+- [x] Fleece or thermal top ✅ 2024-06-06
+- [x] 2 shirts ✅ 2024-06-06
+- [x] 2 shorts ✅ 2024-06-06
+- [x] 3 underwear ✅ 2024-06-06
 
 # Trip Info
 [Wapocoma Campground](http://wapocomacampground.com/)
