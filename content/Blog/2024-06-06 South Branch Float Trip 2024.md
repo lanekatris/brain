@@ -1,6 +1,6 @@
 ---
-title: todo
-date:
+title: South Branch Float Trip 2024
+date: 2024-06-07
 ---
 Other float trips
 - [[South Branch Float Trip 2022]]
